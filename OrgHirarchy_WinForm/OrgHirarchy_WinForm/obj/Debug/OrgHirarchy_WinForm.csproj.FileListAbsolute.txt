@@ -55,3 +55,8 @@ D:\newGunaUI Try\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_W
 D:\newGunaUI Try\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.csproj.CopyComplete
 D:\newGunaUI Try\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.exe
 D:\newGunaUI Try\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.pdb
+D:\Organization-Hierarchy-Manager\OrgHirarchy_WinForm\OrgHirarchy_WinForm\bin\Debug\Guna.UI2.dll
+D:\Organization-Hierarchy-Manager\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.ReprtingChain.resources
+D:\Organization-Hierarchy-Manager\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.Search.resources
+D:\Organization-Hierarchy-Manager\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.SubordinateForm.resources
+D:\Organization-Hierarchy-Manager\OrgHirarchy_WinForm\OrgHirarchy_WinForm\obj\Debug\OrgHirarchy_WinForm.TranferEmpForm.resources
